@@ -1,0 +1,5 @@
+{
+  "name": "Brawl AI",
+  "description": "A fast-paced top-down shooter inspired by Brawl Stars. Battle AI bots, collect gems, and survive in the arena with live commentary powered by Gemini.",
+  "requestFramePermissions": []
+}
